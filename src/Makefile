@@ -5,7 +5,7 @@ extension_name := xulschoolhello
 extension_uuid := helloworld@xulschool.com
 
 # The name of the profile dir where the extension can be installed.
-profile_dir := xulschool-dev
+profile_dir := z0wsj8g3.dev
 
 # The zip application to be used.
 ZIP := zip
